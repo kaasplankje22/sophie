@@ -1,0 +1,11 @@
+ 
+ body {    
+  background-color: #79d2a6; 
+ }
+  img {
+  border-radius: 12px;
+}
+p {
+  font-size:300%;
+  border: 3px solid green;
+}
