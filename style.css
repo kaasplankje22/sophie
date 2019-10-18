@@ -12,3 +12,6 @@ p {
  text-align: center;
   color: black;
 }
+ul {
+  list-style-image: url('sqpurple.gif');
+}
