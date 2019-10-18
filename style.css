@@ -8,11 +8,8 @@
 p {
   font-size:150%;
   border: 3px  #7575a3;
-
+}
+.center {
   text-align: center;
-  color: red;
-} 
-#para1 {
-  text-align: center;
-  color: red;
+  color: blue;
 }
